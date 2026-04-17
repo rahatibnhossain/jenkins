@@ -1,0 +1,6 @@
+app:
+  env:
+    DEVELOPMENT
+server:
+  port:
+    8081
